@@ -8,7 +8,8 @@ by creation date and presents some information about them.
 # Install GitHub Navigator #
 
 * Create a virtualenv
-* Install or update requirements
+* Install or update requirements:
+`pip install -r requirements.txt`
 * Run the application
 * Open a browser
 * Navigate to the served site
