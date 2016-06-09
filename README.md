@@ -14,5 +14,5 @@ by creation date and presents some information about them.
 `$ python manage.py runserver`
 * Open a browser
 * Navigate to the served site
-* Enter a search term, like GET "http://localhost:8000/navigator/?search_term=arrow"
+* Enter a search term: <http://localhost:8000/navigator/?search_term=arrow>
 * Look at the results
