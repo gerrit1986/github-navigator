@@ -1,11 +1,11 @@
-# Introduction #
+# Summary #
 
 This is a Django Application that enables search for GitHub repositories.
 It gets results for a search term and displays five most recent repositories by
 creation date and presents some details about them.
 
 
-# Install GitHub Navigator #
+# Installation #
 
 * Create a virtual environment
 * Install or update requirements:
